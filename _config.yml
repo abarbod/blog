@@ -9,7 +9,7 @@ name: Ahmed Barabbud
 description: Web Developer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/blog/master/images/jekyll-logo.png
+avatar: https://raw.githubusercontent.com/abarbod/blog/master/images/jekyll-logo.png
 
 #
 # Flags below are optional
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/blog/master/images/jekyll-l
 # Includes an icon in the footer for each username you enter
 footer-links:
 #  dribbble:
-  email: a.a.barbod@gmail.com
+  email: me@ahmedbarbbud.com
 #  facebook:
 #  flickr:
   github: abarbod
@@ -26,7 +26,7 @@ footer-links:
   linkedin: in/abarbod
 #  pinterest:
 #  rss: # just type anything here for a working RSS icon
-  twitter: 4ijust
+  twitter: ahmedbarbbud
 #  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 #  youtube: # channel/<your_long_string> or user/<user-name>
 #  googleplus: # anything in your profile username that comes after plus.google.com/
